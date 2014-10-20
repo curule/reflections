@@ -1,0 +1,2 @@
+pwd # print working directory - shows what directory you are in
+ls # list the files in this directory
