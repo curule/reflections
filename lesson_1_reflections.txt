@@ -1,2 +1,7 @@
 pwd # print working directory - shows what directory you are in
 ls # list the files in this directory
+Easy access to the entire history of a file makes me a better programer troubleshooter
+make a commit per a logical change of the program
+git log --stat	//gives statistic of which file has been changed
+git diff between multiple files commit show many sections
+copy and paste commit id by highlight id, hit enter to copy, paste has to go up to upper left corner to hit the icon
